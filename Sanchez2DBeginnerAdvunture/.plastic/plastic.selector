@@ -1,0 +1,4 @@
+repository "Sanchez2DBeginnerAdvunture/Sanchez2DBeginnerAdvunture@20067520621446@cloud"
+  path "/"
+    br "/main"
+    co "/main"
